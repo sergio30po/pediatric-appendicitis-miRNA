@@ -1,0 +1,39 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment / credentials
+.Renviron
+.env
+.env.*
+*.token
+*.key
+*.pem
+
+# Private project data
+data/
+
+# Generated outputs
+results/
+figures/
+
+# Manuscript / editorial material
+manuscript/
+R/manuscript_outputs_pediatrics.R
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+.cache/
+cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
